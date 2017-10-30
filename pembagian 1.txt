@@ -1,0 +1,6 @@
+Pembagian kasar :
+- Yehezkiel -> cari model + obstacle
+- Fakhry -> cari model + obstacle
+- Cantika -> player + player control
+- jy -> terrain + obstacle factory
+- jl -> app state + context + obstacle factory
